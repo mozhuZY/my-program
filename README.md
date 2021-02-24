@@ -1,2 +1,2 @@
 # my-program
-The program base of mine
+This repository use for test.
